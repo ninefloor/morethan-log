@@ -10,16 +10,17 @@ const CONFIG = {
     github: "ninefloor",
     instagram: "nine_floor",
   },
-  projects: [{
-    name: '코노플리 CONOPLI',
-    href: 'https://play.google.com/store/apps/details?id=com.conopli&pcampaignid=web_share',
-  }
+  projects: [
+    {
+      name: "코노플리 CONOPLI",
+      href: "https://play.google.com/store/apps/details?id=com.conopli&pcampaignid=web_share",
+    },
   ],
   // blog setting (required)
   blog: {
     title: "ninefloor deVlog",
     description: "기록이 어려운 개발자의 블로그",
-    theme: 'dark'
+    scheme: "dark",
   },
 
   // CONFIG configration (required)
